@@ -1,0 +1,2 @@
+# aroundmazatlan
+Placeholder website
